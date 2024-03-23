@@ -1,6 +1,3 @@
----
-title: immich 高性能相册管理工具-私有化部署【群晖】
----
 
 ## 背景
 
@@ -48,7 +45,7 @@ iCloud + immich + 百度云
 
 二、开始部署
 
-我是在portainer里部署的，这个docker管理很好用。
+我是在portioner里部署的，这个docker管理很好用。
 
 ![image](https://res.craft.do/user/full/db4bcc1c-4b57-b6c6-3b04-c5f8d3964559/doc/C77EEC4A-54A3-470F-9972-CD7BA65FBB31/AB91A307-5165-48C1-9091-5FD0F1DD43A4_2/8T8bxtDlDo3pose3cA4Mj2tJbkE07Zlqtt3YnxJta1Az/Image.png)
 

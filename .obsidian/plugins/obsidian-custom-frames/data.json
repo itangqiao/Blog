@@ -1,0 +1,27 @@
+{
+  "frames": [
+    {
+      "url": "https://memos.nas.itangqiao.top:23333",
+      "displayName": "memos",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://apitable.nas.itangqiao.top:23333",
+      "displayName": "apitable",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,0 +1,17 @@
+{
+  "provider": "iconhorse",
+  "fallbackProvider": "google",
+  "providerDomain": "",
+  "fallbackProviderDomain": "",
+  "ignored": "",
+  "overwritten": [],
+  "protocol": [],
+  "showAliased": false,
+  "showLink": false,
+  "enableReading": true,
+  "enableSource": true,
+  "enableLivePreview": true,
+  "debounce": 500,
+  "iconPosition": "front",
+  "colorInversion": true
+}

@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "de587826e275f3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa2f38145fc3a195",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98266345db5d1928",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeae0e65a853ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeaa37aa0c7ac072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff4a7ce2aa786b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df4e848d6a5b6148",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 477.5
+  },
+  "right": {
+    "id": "4dcaaed7c6ef6ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fc311c450247ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7375fc356e87afa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41bbc6b3b2c76c25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03d8b4d654508414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ef61b897bef28f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa2f38145fc3a195",
+  "lastOpenFiles": [
+    "8-【Vite 源码学习】2. Vite 构建工具为什么用 Rollup.md",
+    "7-【自制】我做了一把 模 块 化 机 械 键 盘 !【软核】_哔哩哔哩_bilibili.md",
+    "5-工作中遇到的 50 个 JavaScript 的基础知识点.md",
+    "3-都 2022 年了，还不知道这几个 CSS 特性该 out 了.md",
+    "2-如何看待员工自带电脑的公司？.md",
+    "10-耽误你十分钟！🎃你可能用得上这些 webpack5 新特性.md",
+    "未命名.md",
+    " 9-能解决 90% 需求的 js 库 - 掘金.md",
+    " 8-教育优惠开始了，买 air5 好还是 ipad pro 好呢？.md",
+    "6-为什么 macOS 并不差，可市场总敌不过 Windows？.md"
+  ]
+}

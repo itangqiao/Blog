@@ -1,0 +1,76 @@
+/* 颜色1 */
+/* body {
+  --background-primary: #1a1a1a !important;
+  --text-normal: #f5f1e1cf !important;
+} */
+
+/* 颜色2 GIthub */
+
+body {
+  /* 代码块注释 颜色 */
+  --code-comment: #999;
+
+  /* 代码字体大小 */
+  --code-size: 14px !important;
+
+  /* 着重文字 颜色 */
+  --callout-title-color: #946dcd;
+
+  /* 引用字体颜色 */
+  --blockquote-color: #aaa;
+
+  /* 引用背景色 */
+  --blockquote-background-color: #262f2a !important;
+
+  /* H2 字体颜色 */
+  --h2-color: #df8704 !important;
+
+  --text-normal: #dfd4c3c2 !important;
+
+  /****** 代码段关键字颜色 ******/
+  --code-function: #d17277;
+  --code-keyword: #c678dd;
+  --code-operator: var(--color-red);
+
+  --code-property: #dfc084; /* 操作符 */
+
+  --code-string: #98c379; /* 方法、属性 */
+  --background-primary: #0d1117 !important;
+  --text-normal: #e7edf3 !important; /* --text-normal: #E0E2E7DF !important; */
+
+  /* 着重的标题颜色 */
+  /* --callout-summary: #000; */
+  --text-normal: #cccac2;
+  --cardview-color: #cccac2 !important;
+  --nav-item-color: #cccac2;
+  --color-text-day: #000 !important;
+
+  /* 代码段颜色 */
+  /* --color-pink: #bc80da !important; */
+  --color-pink: #58a6ff !important;
+
+  /* tab栏字体颜色 */
+  --color-accent-3-dark: #198f06 !important;
+
+  .cm-hmd-internal-link {
+    color: #227b13 !important;
+    /* background-color: rgba(0, 0, 0, 0.3) !important; */
+  }
+
+  /* 单行代码段 */
+  .cm-s-obsidian span.cm-inline-code {
+    background-color: #000;
+  }
+
+  /* 下划线 */
+  .hr {
+    /* --hr-color: #05022930; */
+    --hr-color: #4a4a4c30;
+  }
+
+  /* 引用竖线颜色 */
+  .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before {
+    border-color: green;
+    border-width: 2px;
+  }
+}

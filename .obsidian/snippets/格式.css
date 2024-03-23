@@ -1,0 +1,53 @@
+body {
+    /* --paragraph-margin-top:10px; */
+    /* --paragraph-margin-bottom:5px; */
+    /* letter-spacing: 0.3px; */
+    --blockquote-border-thickness: 5px;
+}
+.cm-line{
+    letter-spacing: 0.5px; 
+}
+.cm-active.cm-line {
+    background-color: #00000010 !important;
+}
+.cm-contentContainer {
+    padding-bottom: 500px; /* 调整像素值控制留白大小 */
+}
+.markdown-rendered ul:first-child, .markdown-rendered ol:first-child {
+    padding-left: 2em;
+}
+/* div:not(.HyperMD-header,.HyperMD-list-line).cm-line {
+    padding-top:var(--paragraph-margin-top) !important;
+    padding-bottom:var(--paragraph-margin-bottom) !important;
+}
+
+div:not(.HyperMD-header,.HyperMD-list-line).cm-line:has(.cm-fold-indicator) {
+    padding-top:unset !important;
+    padding-bottom:unset !important;
+}
+div:not(.HyperMD-header,.HyperMD-list-line).cm-line:has(.cm-hmd-frontmatter) {
+    padding-top:unset !important;
+    padding-bottom:unset !important;
+} */
+
+/* @settings
+name: Things Theme optimize
+id: things-style-optimize
+settings:
+    -
+        id: paragraph
+        title: 段落间距调整
+        type: heading
+        level: 2
+        collapsed: true
+    -
+        id: paragraph-margin-top
+        title: 段前间距
+        type: variable-text
+        default: 5px
+    -
+        id: paragraph-margin-bottom
+        title: 段后间距
+        type: variable-text
+        default: 5px    
+*/

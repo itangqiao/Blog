@@ -1,0 +1,55 @@
+.omnisearch-modal {
+  top: 20%;
+  width: 50%;
+  height: 60%;
+}
+
+/* 输入框 */
+.prompt-input {
+  font-size: 30px !important;
+}
+.prompt-input::placeholder {
+  color: transparent !important;
+}
+
+/* 搜索字体大小 */
+.omnisearch-result__title {
+  font-size: 20px;
+}
+
+.omnisearch-result__body {
+  font-size: 18px;
+}
+
+/* OmniSearch plugin css snippets */
+/* 搜尋到的符合字串高亮 */
+.omnisearch-highlight {
+  color: var(--text-normal);
+  background-color: var(--text-highlight-bg);
+}
+
+.omnisearch-result {
+  border-bottom: 1px solid gray;
+}
+
+/* alternative row style */
+.omnisearch-result:nth-of-type(even) {
+  /* background-color: black;  */
+  /*var(--text-highlight-bg);*/
+  /*border-bottom: 1px solid var(--text-highlight-bg);*/
+}
+
+.omnisearch-result.is-selected {
+  /* border: 1px solid var(--color-accent); */
+}
+
+/* 讓符合數字靠右 */
+.omnisearch-result__counter {
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+/* 設定結果項目的寬度為100%, 符合數字才會在最右側 */
+.omnisearch-result div div {
+  width: 100%;
+}
