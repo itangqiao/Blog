@@ -1,8 +1,8 @@
 ---
-title:
-  "{ title }": 
-date:
-  "{ date }": 
+title: Obsidian插件
+categories:
+  - Obsidian
+date: 2024-03-24 20:29:45
 tags:
 ---
 ## T0

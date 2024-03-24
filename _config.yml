@@ -5,8 +5,8 @@
 # Site
 title: new 精致的生活
 subtitle: '心可以碎, 手不能停。'
-description: ''
-keywords:
+description: '123'
+keywords: 科技、生活、Obsidian、苹果
 author: Tony ⁺
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -96,8 +96,8 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
+include: []
+exclude: []
 ignore:
 
 # Extensions
@@ -116,7 +116,7 @@ aplayer:
   meting: true
   asset_inject: false
 
-#envelope_comment
+# 留言板
 #seehttps://akilar.top/posts/e2d3c450/
 envelope_comment:
   enable: true #控制开关
@@ -138,3 +138,11 @@ envelope_comment:
     comments: true
     top_img: false
     type: envelope
+
+# 自动分类 
+# Generate categories from directory-tree
+# Dependencies: https://github.com/xu-song/hexo-auto-category
+# depth: the depth of directory-tree you want to generate, should > 0
+auto_category:
+  enable: true
+  depth:

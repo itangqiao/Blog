@@ -1,3 +1,7 @@
+title: 123
+author: Tony
+
+
 menu:
   文章: /
   # 隧道: /archives/ || anzhiyu-icon-box-archive
@@ -15,10 +19,10 @@ menu:
   # 相册集: /album/ || anzhiyu-icon-images
   # 小空调: /air-conditioner/ || anzhiyu-icon-fan
 
-  关于:
-    关于本人: /about/ || anzhiyu-icon-paper-plane
-    闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-    随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+  关于: /about/ || anzhiyu-icon-paper-plane
+  # 关于本人: /about/ || anzhiyu-icon-paper-plane
+  # 闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+  # 随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
@@ -244,7 +248,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
   - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
     link:
@@ -314,7 +318,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: # Twikoo/Waline
+  use: Twikoo,Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -349,6 +353,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
+  enable: true
   serverURL: https://waline.itangqiao.top # Waline server address url
   bg: # waline background
   pageview: false
@@ -360,7 +365,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo.itangqiao.top
   region:
   visitor: false
   option:
@@ -795,7 +800,7 @@ aside:
     tag: true
     category: true
   card_author:
-    enable: true
+    enable: false
     description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这有关于<b style="color:#fff">产品、设计、开发</b>相关的问题和看法，还有<b style="color:#fff">文章翻译</b>和<b style="color:#fff">分享</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">相信你可以在这里找到对你有用的<b style="color:#fff">知识</b>和<b style="color:#fff">教程</b>。</div> # 默认为站点描述
     name_link: /
 
@@ -1133,7 +1138,7 @@ ptool:
   share_mobile: true
   share_weibo: true
   share_copyurl: true
-  categories: false # 是否显示分类
+  categories: true # 是否显示分类
   mode: # 运营模式与责任，不配置不显示
 
 # 欢迎语配置

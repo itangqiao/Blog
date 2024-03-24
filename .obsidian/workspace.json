@@ -11,10 +11,12 @@
             "id": "836448462ea6f1f6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".trash/123.md",
-                "staged": false
+                "file": "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -57,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md"
+              }
             }
           },
           {
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +207,10 @@
   },
   "active": "836448462ea6f1f6",
   "lastOpenFiles": [
+    "themes/anzhiyu/source/favicon.ico",
+    "themes/anzhiyu/source/favicon.1.ico",
+    "source/img/favicon.ico",
+    "source/img",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
@@ -225,9 +234,6 @@
     "source/_obsidian/assets/标题/Recording 20240323161237.webm",
     "source/_posts/Mac/测试.md",
     "Spaces/Home",
-    "Spaces",
-    "source/_obsidian/assets/标题",
-    "source/_obsidian/assets",
     "~/博客.md",
     "博客/博客选题.md",
     "~/苹果指南文档.md",
@@ -237,7 +243,6 @@
     "~/HOME.md",
     "其他/Apple/Apple指南.md",
     "日记/2024-03-19.md",
-    "~/生活随笔.md",
     "~/assets/种草清单/image-20240317130940458.png",
     "~/assets/群晖参数对比/image-20240315200253443.png",
     "~/assets/群晖参数对比/image-20240315200220844.png",
