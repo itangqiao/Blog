@@ -1,18 +1,10 @@
 {
   "pluginList": [
-    "lazyloong/obsidian-browser-assistant",
     "Mocca101/obsidian-plugin-groups",
     "FHachez/obsidian-convert-url-to-iframe",
-    "Stardusten/ob-table-enhancer",
-    "HeekangPark/obsidian-hk-code-block",
     "Quorafind/Obsidian-Surfing"
   ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "Stardusten/ob-table-enhancer",
-      "version": "0.5.11"
-    }
-  ],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": false,
   "updateThemesAtStartup": false,

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c8a6a716607c708",
+        "id": "a467aa1af5cc8ccc",
         "type": "tabs",
         "children": [
           {
-            "id": "63216030f6fa7d8a",
+            "id": "836448462ea6f1f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "source/_posts/Obsidian/Obsidian插件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": ".trash/123.md",
+                "staged": false
               }
             }
           }
@@ -50,8 +48,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c720352655a52145",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,9 +78,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/Obsidian/Obsidian插件.md"
-              }
+              "state": {}
             }
           },
           {
@@ -82,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Obsidian/Obsidian插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Obsidian/Obsidian插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-daily-notes-viewer:打开 Viewer": false,
       "random-note:开始漫游笔记": true,
       "audio-recorder:开始/结束录音": true,
       "switcher:打开快速切换": true,
@@ -188,32 +190,44 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "zk-prefixer:创建时间戳笔记": true,
+      "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
       "vscode-editor:新建代码文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-comments:Show Comments Panel": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "63216030f6fa7d8a",
+  "active": "836448462ea6f1f6",
   "lastOpenFiles": [
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "source/about/index.md",
     "source/_posts/Obsidian/Obsidian插件.md",
-    "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md",
+    "source/_posts/前端/未命名.md",
+    "source/_posts/未分类/未命名.md",
+    "source/_posts/未分类/123.md",
+    "source/_posts/生活/生活测试页.md",
+    "source/_obsidian/Post Template.md",
     "source/_posts/Mac/未命名.md",
-    "source/_obsidian/标题.md",
+    "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md",
+    "source/_posts/Obsidian/未命名.md",
+    "source/_posts/NAS/未命名.md",
+    "source/_data/about.yml",
+    "source/_posts/未分类",
+    "source/_data/about.sync-conflict-20240320-080313-SHWICUC.yml",
+    "pnpm-lock.yaml",
+    "source/categories/index.md",
+    "source/categories",
     "source/_obsidian/assets/标题/Recording 20240323161237.webm",
     "source/_posts/Mac/测试.md",
     "Spaces/Home",
     "Spaces",
     "source/_obsidian/assets/标题",
     "source/_obsidian/assets",
-    "_config.yml",
-    "_config.landscape.yml",
-    "_config.anzhiyu.yml",
     "~/博客.md",
     "博客/博客选题.md",
     "~/苹果指南文档.md",
@@ -224,19 +238,6 @@
     "其他/Apple/Apple指南.md",
     "日记/2024-03-19.md",
     "~/生活随笔.md",
-    "~/群晖是新手最好的 NAS 选择之一, 但也可能是最后一台.md",
-    "~/Git.md",
-    "~/GitLab.md",
-    "~/设计感的网站.md",
-    "~/Linux.md",
-    "日记/2024-03-18.md",
-    "~/Mac 使用指南.md",
-    "~/espanso.md",
-    "~/将本地master分支代码提交到远程main分支.md",
-    "~/专业随笔.md",
-    "~/一些工具.md",
-    "~/assets/未命名 28/IMG_7419_MOV-十一看十一视频.mp4",
-    "~/assets/未命名 28",
     "~/assets/种草清单/image-20240317130940458.png",
     "~/assets/群晖参数对比/image-20240315200253443.png",
     "~/assets/群晖参数对比/image-20240315200220844.png",

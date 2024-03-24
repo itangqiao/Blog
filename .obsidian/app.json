@@ -6,7 +6,7 @@
   "tabSize": 2,
   "showInlineTitle": false,
   "trashOption": "local",
-  "attachmentFolderPath": "./assets/Obsidian插件",
+  "attachmentFolderPath": "./assets/page",
   "alwaysUpdateLinks": true,
   "showFrontmatter": false,
   "strictLineBreaks": false,
