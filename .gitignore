@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+=======
+node_modules
+.DS_Store
+>>>>>>> 7102dbf20d96be87dfcf989b09b5943f7e463cfd
