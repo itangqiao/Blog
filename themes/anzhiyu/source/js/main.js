@@ -1705,11 +1705,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     clickFnOfSubMenu();
     GLOBAL_CONFIG.islazyload && lazyloadImg();
-<<<<<<< HEAD
     // GLOBAL_CONFIG.copyright !== undefined && addCopyright();
-=======
-    GLOBAL_CONFIG.copyright !== undefined && addCopyright();
->>>>>>> 2c89ef2ea7ba6d91cbee9bc9d09cdec5937f8b9e
     GLOBAL_CONFIG.navMusic && listenNavMusicPause();
     if (GLOBAL_CONFIG.shortcutKey && document.getElementById("consoleKeyboard")) {
       localStorage.setItem("keyboardToggle", "true");
