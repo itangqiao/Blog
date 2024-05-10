@@ -1,0 +1,68 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "theme:switch",
+      "icon": "aperture",
+      "name": "更换主题",
+      "mode": "any"
+    },
+    {
+      "id": "theme:use-dark",
+      "icon": "moon",
+      "name": "使用深色模式",
+      "mode": "any"
+    },
+    {
+      "id": "theme:use-light",
+      "icon": "sun",
+      "name": "使用浅色模式",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "easy-typing-obsidian:easy-typing-delete-blank-line",
+      "icon": "box-select",
+      "name": "Easy Typing: 刪除选中部分/全文的多余空白行",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "activity",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "recentFiles": [
+    {
+      "basename": "immich 高性能相册管理工具-私有化部署【群晖】",
+      "path": "source/_posts/NAS/immich 高性能相册管理工具-私有化部署【群晖】.md"
+    },
+    {
+      "basename": "post",
+      "path": "scaffolds/post.md"
+    },
+    {
+      "basename": "page",
+      "path": "scaffolds/page.md"
+    },
+    {
+      "basename": "draft",
+      "path": "scaffolds/draft.md"
+    },
+    {
+      "basename": "index",
+      "path": "source/about/index.md"
+    },
+    {
+      "basename": "Obsidian插件",
+      "path": "source/_posts/Obsidian/Obsidian插件.md"
+    },
+    {
+      "basename": "生活测试页",
+      "path": "source/_posts/生活/生活测试页.md"
+    },
+    {
+      "basename": "Post Template",
+      "path": "source/_obsidian/Post Template.md"
+    },
+    {
+      "basename": "about",
+      "path": "source/_data/about.yml"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

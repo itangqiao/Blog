@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "46a419f6d06d969c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57de64bb33d8307a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ada1185addd2bf0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "~/HOME.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0841926669337376,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "a19364a040143e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~/HOME.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "b039f699cbecbbce"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "502bbd70eb6e8168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fb7df46c8d59b3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "~/HOME.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.77631578947368,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13152496489227067,
+                  "close": true
+                }
+              }
+            },
+            "group": "b039f699cbecbbce"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6a69e98eadea28",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da81efa326007dc9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "336439a019c24a6e",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "233727de890a6f7c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "018906627190e395",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "45eb6b7e7835a281",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "34e2a96e08b249f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4f90999699339ffe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "~/HOME.md"
+          }
+        }
+      },
+      {
+        "id": "bfc6a68ec027a0e6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "~/HOME.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4127e223717c045d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "~/HOME.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "657d31f98efb7ec8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4bb22f89aa5b9ed6",
+        "type": "leaf",
+        "state": {
+          "type": "quiet-outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "75f1ad804d786c96",
+        "type": "leaf",
+        "state": {
+          "type": "daily-note-outline",
+          "state": {
+            "activeSet": 0,
+            "activeGranularity": 0
+          }
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-daily-notes-viewer:打开 Viewer": false,
+      "halo:发布当前文档到 Halo": false,
+      "pkmer:Open Pkmer Market": false,
+      "thino:Thino": false,
+      "vscode-editor:新建代码文件": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "a19364a040143e26",
+  "lastOpenFiles": [
+    "~/memos.md",
+    "~/生活随笔.md",
+    "~/设立目标的步骤.md",
+    "~/HOME.md",
+    "~/ob样式备份.md",
+    "~/未命名 30.md",
+    "~/未命名 27.md",
+    "~/配置文件备份.md",
+    "日记/2024-03-17.md",
+    "~/前端.md",
+    "~/每日完成事项.md",
+    "~/Linux.md",
+    "~/Vue开发史.md",
+    "~/疑问清单.md",
+    "~/espanso.md",
+    "~/tree-shaking.md",
+    "~/组件封装原则.md",
+    "~/htop.md",
+    "~/top.md",
+    "~/专业随笔.md",
+    "~/大文件上传.md",
+    "~/英语汇总.md",
+    "~/我的尺码.md",
+    "~/卡随笔.md",
+    "日记/2023-07-11.md",
+    "~/15个前端基建分享.md",
+    "~/assets/书单/image-20231126160758666.png",
+    "~/assets/书单/image-20231127112743981.png",
+    "~/assets/书单/image-20231129151058151.png",
+    "~/assets/书单/image-20231129150942428.png",
+    "~/assets/二十行代码，搞懂 Observable/image-20230722050500446.png",
+    "~/assets/二十行代码，搞懂 Observable/image-20230722050631344.png",
+    "~/assets/设计队列/image-20230722033130756.png",
+    "~/assets/设计队列/image-20230722033110251.png",
+    "~/assets/集合/image-20230721032738449.png",
+    "~/assets/二十行代码，搞懂 Observable/image-20230722050420300.png",
+    "其他/白板/24.两两交换链表中的节点-白板.canvas",
+    "其他/白板/翻转链表-白板.canvas",
+    "记录/assets/🧑🏻‍💻 专业随笔/Recording 20230524034755.webm",
+    "其他/白板/未命名.canvas",
+    "日记/assets/2023-05-12/git常用命令 _ Pure Admin 保姆级文档.html",
+    "记录/assets/简易闭包练习",
+    "记录/assets/编译原理",
+    "记录/assets/渲染概念",
+    "记录/assets/核心web指标",
+    "记录/assets/Provide & Inject",
+    "记录/assets/Nuxt",
+    "记录/assets/Nuxt目录模板",
+    "记录/assets/前端面试拼图 记录",
+    "发展/未命名.canvas",
+    "其他/白板/未命名 1.canvas",
+    "其他/白板/未命名 4.canvas",
+    "其他/白板/未命名 3.canvas",
+    "其他/白板/未命名 2.canvas",
+    "其他/白板/未命名 6.canvas",
+    "其他/白板/未命名 5.canvas"
+  ]
+}

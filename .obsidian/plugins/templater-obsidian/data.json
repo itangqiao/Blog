@@ -1,0 +1,29 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "source/_obsidian",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "source/_posts/未分类",
+      "template": "source/_obsidian/标题.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "source/_obsidian/标题.md"
+  ],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}

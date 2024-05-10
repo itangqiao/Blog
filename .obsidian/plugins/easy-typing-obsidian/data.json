@@ -1,0 +1,230 @@
+{
+  "Tabout": true,
+  "SelectionEnhance": true,
+  "IntrinsicSymbolPairs": true,
+  "BaseObEditEnhance": true,
+  "FW2HWEnhance": true,
+  "AutoFormat": true,
+  "ExcludeFiles": "",
+  "ChineseEnglishSpace": true,
+  "ChineseNumberSpace": true,
+  "EnglishNumberSpace": false,
+  "ChineseNoSpace": false,
+  "PunctuationSpace": false,
+  "AutoCapital": false,
+  "AutoCapitalMode": "typing",
+  "PunctuationSpaceMode": "typing",
+  "InlineCodeSpaceMode": 1,
+  "InlineFormulaSpaceMode": 1,
+  "InlineLinkSpaceMode": 1,
+  "InlineLinkSmartSpace": true,
+  "UserDefinedRegSwitch": true,
+  "UserDefinedRegExp": "{{.*?}}|++\n<.*?>|--\n\\[\\!.*?\\][-+]{0,1}|-+\n(file:///|https?://|ftp://|obsidian://|zotero://|www.)[^\\s（）《》。,，！？;；：“”‘’\\)\\(\\[\\]\\{\\}']+|++\n\n[a-zA-Z0-9_\\-.]+@[a-zA-Z0-9_\\-.]+|++\n(?<!#)#[\\u4e00-\\u9fa5\\w\\/]+|++\n",
+  "debug": false,
+  "userSelRepRuleTrigger": [
+    "-",
+    "#",
+    "[",
+    "=",
+    "u",
+    "(",
+    "~"
+  ],
+  "userSelRepRuleValue": [
+    {
+      "left": "- ",
+      "right": ""
+    },
+    {
+      "left": "#",
+      "right": " "
+    },
+    {
+      "left": "[[",
+      "right": "]]"
+    },
+    {
+      "left": "===",
+      "right": "==="
+    },
+    {
+      "left": " <u>",
+      "right": "</u> "
+    },
+    {
+      "left": "（",
+      "right": "）"
+    },
+    {
+      "left": "~~",
+      "right": "~~"
+    }
+  ],
+  "userDeleteRulesStrList": [
+    [
+      "demo|",
+      "|"
+    ]
+  ],
+  "userConvertRulesStrList": [
+    [
+      ":)|",
+      "😀|"
+    ],
+    [
+      "/js |",
+      "```js\n|\n```"
+    ],
+    [
+      "/new|",
+      "`new`|"
+    ],
+    [
+      "/async|",
+      "`async`|"
+    ],
+    [
+      "/function|",
+      "`function`|"
+    ],
+    [
+      "/Promise|",
+      "`Promise`|"
+    ],
+    [
+      "/await|",
+      "`await`|"
+    ],
+    [
+      "///|",
+      "`|`"
+    ],
+    [
+      "/、、|",
+      "`|`"
+    ],
+    [
+      "[] |",
+      "- [ ] |"
+    ],
+    [
+      "/aaa|",
+      "``|"
+    ],
+    [
+      "-》|",
+      " → |"
+    ],
+    [
+      "-> |",
+      " → |"
+    ],
+    [
+      "-  |",
+      " - |"
+    ],
+    [
+      "、、|",
+      "\\|"
+    ],
+    [
+      "/、|",
+      "// |"
+    ],
+    [
+      "、、|",
+      "/|"
+    ],
+    [
+      "//|",
+      "// |"
+    ],
+    [
+      "/ts |",
+      "```ts\n|\n```"
+    ],
+    [
+      "/vue |",
+      "```vue\n|\n```"
+    ],
+    [
+      "??|",
+      ">[!question] 为什么|"
+    ],
+    [
+      "/xx |",
+      ">[!missing]|"
+    ],
+    [
+      "/dg |",
+      ">[!success] |"
+    ],
+    [
+      "/zy |",
+      ">[!info] |"
+    ],
+    [
+      "/info |",
+      ">[!info] |"
+    ],
+    [
+      "（|",
+      "(|"
+    ],
+    [
+      "/scss|",
+      "```scss\n|\n```"
+    ],
+    [
+      "/css|",
+      "```css\n|\n```"
+    ],
+    [
+      "/ts |",
+      "```ts\n|\n```"
+    ],
+    [
+      ",|",
+      ", |"
+    ],
+    [
+      ".. |",
+      "。|"
+    ],
+    [
+      "\\ |",
+      "、|"
+    ],
+    [
+      "ttt|",
+      "```ts\n|\n```"
+    ],
+    [
+      "/h |",
+      "```html\n|\n```"
+    ],
+    [
+      "/css|",
+      "```css\n|\n```"
+    ],
+    [
+      "[[ |",
+      "[[|]]"
+    ],
+    [
+      "\\_bilibili|",
+      "|"
+    ],
+    [
+      "]]|",
+      "]] |"
+    ]
+  ],
+  "userSelRuleSettingsOpen": true,
+  "userDelRuleSettingsOpen": true,
+  "userCvtRuleSettingsOpen": true,
+  "EnterTwice": false,
+  "TryFixChineseIM": false,
+  "PuncRectify": false,
+  "FixMacOSContextMenu": false
+}

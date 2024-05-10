@@ -1,0 +1,48 @@
+{
+  "bookmarks": [
+    {
+      "id": "1798374603",
+      "name": "国内顶级开源项目：芋道、ruoyi、JeecgBoot、pig、SpringBlade功能对比",
+      "url": "https://www.yuque.com/xiatian-bsgny/lm0ec1/wqf8mn?#qam2",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1708830080318,
+      "modified": 1708830080318
+    },
+    {
+      "id": "-1196929652",
+      "name": "教你如何解决Obsidian中的视频时间戳插件的小Bug_哔哩哔哩_bilibili",
+      "url": "https://www.bilibili.com/video/BV1724y1373s/?vd_source=2937475ed2c2e5671065422003e9ae4d",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1680969709427,
+      "modified": 1680969709427
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+body {
+
+  /* ----------------------- 引用样式 START ----------------------- */
+
+  /* 双链下划线是否开启 */
+  --link-decoration: 0;
+  /* --link-external-decoration: 0; */
+
+  /* 链接下划线 */
+  .cm-underline {
+    /* text-underline-offset: 0.2em; */
+  }
+  .cm-url:hover {
+    /* background-color: #fff; */
+    --link-decoration: 0 !important;
+    /* --link-external-decoration: 0 !important; */
+  }
+
+  /* .cm-link .cm-underline:hover,
+  .markdown-source-view.mod-cm6 .cm-url .cm-underline:hover {
+    text-decoration-line: 0 !important;
+    --link-decoration: 0 !important;
+    --link-external-decoration: 0 !important;
+  } */
+
+  .cm-indent {
+    /* background-color: #fff; */
+  }
+
+  /* 引用链接样式 []() */
+  .cm-link {
+  }
+
+  /* 二级标签 会引发无法点击*/
+  .HyperMD-header-2 {
+  }
+
+  /* [[样式]] */
+  .cm-hmd-internal-link {
+    &:not(.cm-header-3):not(.cm-header-2) {
+      padding: 0px 5px;
+      border-radius: 3px;
+      border: 1px solid #333c4a7d;
+    }
+
+    /* background-color: rgba(0, 0, 0, 0.3) !important; */
+    
+  }
+
+
+
+  /* ----------------------- 引用样式 END ----------------------- */
+
+  /* 文件引用 */
+  /* .cm-underline {
+    padding: 0px 5px;
+    border: 1px solid #333c4a;
+    border-radius: 3px;
+  } */
+
+  /* 背景色 */
+  /* --background-primary: #1a1a1a !important;  搭配这个字体还是不错#dfd4c3c2*/
+
+  /* 字体颜色搭配: minimal背景蓝 + 偏黄字体*/
+  /* --text-normal: #f5f1e1cf !important; 太亮了*/
+
+  /****** 代码段关键字颜色 适配AnuPpuccin浅色主题 ******/
+  --code-function: #d17277;
+  --code-keyword: #a249bd;
+  --code-operator: var(--color-red);
+
+  --code-property: #bd7f02; /* 操作符 */
+
+  --code-string: #487b24; /* 方法、属性 */
+}
+
+
+
+.HyperMD-list-line-1 {
+  /* font-weight: 700; */
+}
+
+.HyperMD-header-3 {
+  /* padding-bottom: 10px !important; */
+}
+
+/* 引用样式 */
+.ͼ1 .cm-widgetBuffer {
+  height: 1.6em;
+}
+.cm-hmd-internal-link {
+  background-color: #fffefd50;
+}
+
+/* 设置制表符宽度为 2 个空格
+pre {
+  tab-size: 2 !important;
+}
+*/
+
+/* 悬浮预览窗口 */
+.popover.hover-popover {
+  /* transition: all 0.01s linear; */
+  width: 900px !important;
+}
+
+/* 行内代码 */
+.cm-inline-code {
+  /* -webkit-text-stroke: #CC867F 0.5px; */
+  /* -webkit-text-stroke-width: 1px; */
+  font-weight: 900;
+  color: #CC867F !important;
+}
+
+/* 代码大块 */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  /* tab-size: 2; */
+  flex-wrap: nowrap;
+  background-color: #f4f4f4;
+}
+
+/* 引用  */
+.cm-s-obsidian span.cm-quote {
+  /* color: #946dcd; */
+  /* background-color: #262f2a; */
+  /* color: green; */
+  /* background-color: #000; */
+  /* margin: 20px 0 !important; */
+  /* color: #aaa; */
+}
+
+
+
+/* ---------------------------------- 着重文字 (tips) ---------------------------------- */
+
+.callout-title-inner {
+  letter-spacing: 0.5px;
+  background-color: transparent;
+}
+
+.callout {
+  /* background-color: transparent; */
+}
+
+.increase-paragraph-gap div.cm-line {
+  padding: 0px auto !important;
+}
+
+
+
+/* ---------------------------------- 滚动条 ---------------------------------- */
+
+::-webkit-scrollbar {
+  width: 3px;
+  color: #ccc;
+  height: 0;
+}
+
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(86, 84, 119, 0.1);
+  border-radius: 10px;
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(86, 84, 119, 0.3);
+  background-color: #555;
+}
+
+
+
+/* ---------------------------------- tabs ---------------------------------- */
+
+body:not(.is-grabbing):not(.is-fullscreen).is-hidden-frameless .mod-top .workspace-tab-header-container {
+  /* -webkit-app-region: drag; */
+  /* height: 28px; */
+}
+.workspace-tab-header-inner {
+  /* height: 2.55rem; */
+}
+.mod-root .workspace-tab-header-container-inner {
+  /* padding-top: 2px; */
+}
+
+.anp-h2-divider .markdown-rendered h2,
+.anp-h2-divider .HyperMD-header-2 {
+  margin-bottom: 20px !important;
+}
+
+/* 标题双链 */
+.anp-header-margin-toggle .cm-header-3 {
+  display: inline !important;
+  /* background-color: transparent !important; */
+}
+.cm-s-obsidian span.cm-hmd-internal-link {
+}
+
+
+
+/* ---------------------------------- 第三方插件  ---------------------------------- */
+
+/* 侧边日历 */
+.title.svelte-1vwr9dd.svelte-1vwr9dd {
+  font-size: 1em !important;
+}
+.reset-button.svelte-1vwr9dd.svelte-1vwr9dd {
+  /* font-size: 0.6; */
+  /* tab竖线颜色 */
+}
+
+
+
+
+
+
+/* ------------------------ 夜间模式 ------------------------- */
+
+
+
+
+
+
+
+.theme-dark.anp-theme-ext-dark.ctp-atom-dark {
+  
+  /* 双链 */
+  .cm-hmd-internal-link {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+  }
+
+  /* 大代码块 */
+  .markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+  }
+  
+}
+
+/* ------------------------ 主题 ------------------------- */
+
+.HyperMD-header-2 {
+  padding-bottom: 10px !important;
+}
